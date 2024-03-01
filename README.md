@@ -22,6 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - 1er Link de referencia: https://docs.flutter.dev/cookbook/navigation/navigation-basics
 - 2do Link de referencia: https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit?pli=1
+- 3er link de referencia: https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
   
 - Edgar Emilio Meraz Acosta a.21308051280388@cbti128.edu.mx
 
