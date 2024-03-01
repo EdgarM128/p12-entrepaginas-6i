@@ -17,3 +17,15 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Ejemplo de Routes Navigator en: FlutLab - Flutter Online IDE
+
+- 1er Link de referencia: https://docs.flutter.dev/cookbook/navigation/navigation-basics
+- 2do Link de referencia: https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit?pli=1
+  
+- Edgar Emilio Meraz Acosta a.21308051280388@cbti128.edu.mx
+
+## Imagenes del resultado de mi aplicacion
+![image](https://github.com/EdgarM128/p12-entrepaginas-6i/assets/145927073/d6ec06e3-fdd6-4233-bf90-29c2e442377f)
+![image](https://github.com/EdgarM128/p12-entrepaginas-6i/assets/145927073/eed37d52-3c50-47f7-870b-4c851757ec10)
+
