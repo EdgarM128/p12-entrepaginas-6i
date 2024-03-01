@@ -26,7 +26,13 @@ samples, guidance on mobile development, and a full API reference.
   
 - Edgar Emilio Meraz Acosta a.21308051280388@cbti128.edu.mx
 
-## Imagenes del resultado de mi aplicacion
+## Imagenes del resultado de mi aplicacion en la Primera clase
 ![image](https://github.com/EdgarM128/p12-entrepaginas-6i/assets/145927073/d6ec06e3-fdd6-4233-bf90-29c2e442377f)
 ![image](https://github.com/EdgarM128/p12-entrepaginas-6i/assets/145927073/eed37d52-3c50-47f7-870b-4c851757ec10)
+
+## Imagenes del resultado de mi aplicacion en la Segunda clase
+![image](https://github.com/EdgarM128/p12-entrepaginas-6i/assets/145927073/93eefa22-96e9-4c82-8f4e-087e73c9242e)
+![image](https://github.com/EdgarM128/p12-entrepaginas-6i/assets/145927073/208b5e28-e867-4a8e-a3ca-c6761b8a14d6)
+
+
 
